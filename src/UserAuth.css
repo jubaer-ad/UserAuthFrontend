@@ -55,3 +55,9 @@
   color: #797979;
   font-size: 19px;
 }
+
+.submit-container {
+  display: flex;
+  gap: 30px;
+  margin: 60px auto;
+}
